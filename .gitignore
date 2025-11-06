@@ -1,0 +1,148 @@
+# ─────────────────────────────
+# 🔹 PYTHON BASICS
+# ─────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Logs & caches
+*.log
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+*.pid
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.DS_Store
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.dll
+*.dylib
+*.lib
+*.obj
+*.o
+*.a
+*.out
+*.class
+
+# ─────────────────────────────
+# 🔹 DATA / MODEL FILES
+# ─────────────────────────────
+# YOLO / AI Models
+*.pt
+*.weights
+*.onnx
+*.engine
+*.pth
+*.ckpt
+
+# Datasets and annotations
+data/
+datasets/
+outputs/
+runs/
+results/
+train/
+test/
+val/
+
+# Temporary notebooks or exports
+*.ipynb_checkpoints
+*.csv
+*.json
+*.yaml
+*.yml
+*.xml
+*.npy
+*.npz
+
+# ─────────────────────────────
+# 🔹 IDE / EDITOR FILES
+# ─────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# JetBrains
+*.iml
+.idea/
+
+# VS Code local settings
+.history/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# ─────────────────────────────
+# 🔹 BUILD / DIST / INSTALLERS
+# ─────────────────────────────
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# ─────────────────────────────
+# 🔹 MISC & BACKUPS
+# ─────────────────────────────
+*.bak
+*.old
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+
+# ─────────────────────────────
+# 🔹 OS FILES
+# ─────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ─────────────────────────────
+# 🔹 CUSTOM PROJECT FILES
+# ─────────────────────────────
+# Video frames / outputs
+frames/
+captures/
+recordings/
+videos/
+*.mp4
+*.avi
+*.mov
+
+# Debug screenshots or demos
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# ─────────────────────────────
+# 🔹 NOTEBOOK / DEMO OUTPUTS
+# ─────────────────────────────
+*.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+experiments/
+checkpoints/
