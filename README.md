@@ -11,7 +11,7 @@ This is the base of a hopefully larger project. Lets see where this goes!
 ## ⚙️ Installation
 ```bash
 git clone https://github.com/<your-username>/vision-assisted-ai.git
-cd vision-assisted-ai
+cd SmartAssist AI
 python -m venv .venv
 source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
