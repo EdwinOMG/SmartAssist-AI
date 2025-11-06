@@ -4,3 +4,4 @@ ultralytics
 torch
 numpy
 matplotlib
+pyttsx3
