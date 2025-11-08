@@ -5,3 +5,4 @@ torch
 numpy
 matplotlib
 pyttsx3
+torchvision
